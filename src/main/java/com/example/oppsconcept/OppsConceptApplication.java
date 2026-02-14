@@ -1,0 +1,13 @@
+package com.example.oppsconcept;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class OppsConceptApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(OppsConceptApplication.class, args);
+    }
+
+}
