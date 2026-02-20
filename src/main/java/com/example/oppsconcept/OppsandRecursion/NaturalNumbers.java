@@ -1,4 +1,4 @@
-package com.example.oppsconcept;
+package com.example.oppsconcept.OppsandRecursion;
 
 public class NaturalNumbers {
 
